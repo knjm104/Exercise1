@@ -6,3 +6,5 @@ Exercise1
 ##
 #Tommorow is new day
 #This time update from GIT
+
+#new updates to check credentials
