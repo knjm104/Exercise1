@@ -1,4 +1,4 @@
-#new updates to check credentials
+#new updates to check credentials - need to be introduced in terminal
 git config --global user.email "milena.balcerzak@astrazeneca.com"
 git config --global user.name "knjm104"
 #new updates to check credentials
